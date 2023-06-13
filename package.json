@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/letssteam/pxt-lets-steam-cloud-build-server#readme",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.202.0",
+    "@aws-sdk/client-s3": "^3.350.0",
     "aws-sdk": "^2.1246.0",
     "dotenv": "^16.0.3"
   }
